@@ -106,7 +106,7 @@ To run this project locally, you need the following:
 - Created a dashboard using **Plotly Dash** to interactively explore data.
 
   Example:
-  ![Dashboard Example](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+  ![Dashboard Example](https://github.com/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Plots/DashSS.png)
 
 ---
 
