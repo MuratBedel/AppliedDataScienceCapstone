@@ -3,6 +3,12 @@
 
 Welcome to the **Applied Data Science Capstone** project repository! This project is part of the IBM Data Science Professional Certificate and showcases a comprehensive data science workflow, from data wrangling to predictive analytics and dashboard creation.
 
+https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb
+https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/edadataviz.ipynb
+https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/jupyter-labs-eda-sql-coursera_sqllite.ipynb
+https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/lab_jupyter_launch_site_location.ipynb
+https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/labs-jupyter-spacex-Data%20wrangling.ipynb
+
 ---
 
 ## 🗂 Repository Structure
