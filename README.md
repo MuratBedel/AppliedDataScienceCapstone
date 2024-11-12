@@ -7,11 +7,12 @@ Welcome to the **Applied Data Science Capstone** project repository! This projec
 
 Here are the notebooks used in this project along with their nbviewer previews:
 
-1. [SpaceX Machine Learning Prediction - Part 5](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
-2. [EDA and Data Visualization](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/edadataviz.ipynb)
-3. [SQL Queries in Jupyter Labs](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
-4. [Launch Site Location Analysis](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/lab_jupyter_launch_site_location.ipynb)
-5. [SpaceX Data Wrangling](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/labs-jupyter-spacex-Data%20wrangling.ipynb)
+1. [SpaceX Machine Learning Prediction - Part 5](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb){:target="_blank"}
+2. [EDA and Data Visualization](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/edadataviz.ipynb){:target="_blank"}
+3. [SQL Queries in Jupyter Labs](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/jupyter-labs-eda-sql-coursera_sqllite.ipynb){:target="_blank"}
+4. [Launch Site Location Analysis](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/lab_jupyter_launch_site_location.ipynb){:target="_blank"}
+5. [SpaceX Data Wrangling](https://nbviewer.org/github/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Notebooks/labs-jupyter-spacex-Data%20wrangling.ipynb){:target="_blank"}
+
 
 
 ---
