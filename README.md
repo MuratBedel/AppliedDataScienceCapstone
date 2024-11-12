@@ -92,7 +92,7 @@ To run this project locally, you need the following:
 - Used **matplotlib** and **seaborn** for insightful visualizations.
   
   Example plot:
-  ![Example Plot]([https://via.placeholder.com/800x400?text=Example+Visualization](https://github.com/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Plots/Yearly%20Launch%20Success%20Trend.png))
+  ![Example Plot]([(https://github.com/MuratBedel/AppliedDataScienceCapstone/blob/main/Project/Plots/Yearly%20Launch%20Success%20Trend.png)]
 
 ### 3. **Predictive Modeling**
 - Built classification models using **scikit-learn**.
